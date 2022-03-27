@@ -16,6 +16,7 @@ Data
 </br>● Total chairs
 </br>● Snow Making area
 </br>● Night skiing capacity
+![image](https://user-images.githubusercontent.com/87315447/160266139-5d879d4e-7799-46eb-844d-991e8ab4ab81.png)
 #### Scenarios:
 4 strategies were shortlisted and presented to the data science team, to maximize profits and revenue,
 </br>● Permanently closing down upto 10 of the least used run
@@ -35,3 +36,6 @@ Chart: Heat map showing correlations among features
 </br>● 3-5 runs can be closed with the same effect
 </br>● Closing more than 6 runs leads to a significant price drop
 ![image](https://user-images.githubusercontent.com/87315447/160266117-edcaeea2-ee89-410b-b97c-a1e9e6ca4057.png)
+#### Big Mountain Ticket Price comparison in market
+![image](https://user-images.githubusercontent.com/87315447/160266291-2dbd6242-1349-4f07-87ee-77435f6f0997.png)
+
