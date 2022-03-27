@@ -38,7 +38,17 @@ Chart: Heat map showing correlations among features
 ![image](https://user-images.githubusercontent.com/87315447/160266117-edcaeea2-ee89-410b-b97c-a1e9e6ca4057.png)
 #### Big Mountain Ticket Price comparison in market
 ![image](https://user-images.githubusercontent.com/87315447/160266332-e3e38ad6-d611-4fc9-8f5a-9d38897c3ba2.png)
+![image](https://user-images.githubusercontent.com/87315447/160266374-034f9ba9-0ca0-414c-bb28-246b98b31a33.png)
+#### Conclusion
+The model suggests that Big Mountain is underpricing their tickets so the company can probably increase prices marginally ,on increasing the price of their adult weekend tickets by $10 to $15.
+</br>Increase the vertical drop by adding a run to a point 150 feet lower down but requiring the installation of an additional chair lift to bring skiers back up, without additional snow making coverage 
+</br>Big Mountain keeps the old price for weekdays, and adopts an increased price for weekends.
+</br>The best scenario where we managed to gain the highest revenue increase possible was by  - 
+</br>● adding one run
+</br>● increasing the vertical drop by 150 ft
+</br>● 2 acres of snow making cover
+</br>● adding one Chair Lift
 
-![image](https://user-images.githubusercontent.com/87315447/160266353-a83bf043-3ade-4df7-828a-f5cea88f8034.png)
+</br>This scenario has increased ticket price by 12% from $81 to $94.66, resulting in a bottom-line increase by $15,528,841 (After deducting operating costs = $1.54M).
 
 
