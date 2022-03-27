@@ -37,5 +37,8 @@ Chart: Heat map showing correlations among features
 </br>● Closing more than 6 runs leads to a significant price drop
 ![image](https://user-images.githubusercontent.com/87315447/160266117-edcaeea2-ee89-410b-b97c-a1e9e6ca4057.png)
 #### Big Mountain Ticket Price comparison in market
-![image](https://user-images.githubusercontent.com/87315447/160266291-2dbd6242-1349-4f07-87ee-77435f6f0997.png)
+![image](https://user-images.githubusercontent.com/87315447/160266332-e3e38ad6-d611-4fc9-8f5a-9d38897c3ba2.png)
+
+![image](https://user-images.githubusercontent.com/87315447/160266353-a83bf043-3ade-4df7-828a-f5cea88f8034.png)
+
 
